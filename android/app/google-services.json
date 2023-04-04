@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "997706105988",
+    "project_id": "timeit-104e5",
+    "storage_bucket": "timeit-104e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997706105988:android:2907cee1aa581d5c4eeed1",
+        "android_client_info": {
+          "package_name": "com.example.timeit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997706105988-g960kg4oesag6d63f5o2efm8vo0ar74a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzQLkyKAU_Jqli8t9hrzrzwfzmLkaxp9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997706105988-g960kg4oesag6d63f5o2efm8vo0ar74a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "997706105988-n714ugurr9t87l0kgo49dhubv80a1i67.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.timeit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
